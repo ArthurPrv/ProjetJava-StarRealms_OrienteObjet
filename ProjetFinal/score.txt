@@ -1,0 +1,5 @@
+arthur  :  72
+maxime  :  72
+anthony  :  72
+thomas  :  87
+arthur2  :  180
